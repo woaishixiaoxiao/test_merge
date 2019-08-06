@@ -1,6 +1,9 @@
 int test {
     cout<<"hello world";
 }
+int test2 {
+    cout<<"hello china";
+ }
 int main() {
     cout<<"update file";
     test();
